@@ -91,7 +91,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by \*\*[**Revathi Yerninti**](https://github.com/YernintiRevathi)
 =======
 # RentNGo_vechical_rental_main
 >>>>>>> 491d7e3ab2c5a34ffb81bd8e617a9952c000aac3
